@@ -1,3 +1,3 @@
-# NASA-Openscapes.github.io
+# Bioflor.github.io
 
-Landing page for NASA-Openscapes  
+Landing page for Bioflor projects
